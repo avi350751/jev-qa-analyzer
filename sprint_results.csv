@@ -1,0 +1,71 @@
+ticket_id,module,severity,reference_risk_score,jev_risk_score,absolute_error,jev_confidence,reference_release_readiness
+SP-2001,Checkout,High,7.3,5.5,1.8,0.72,At Risk
+SP-2002,Payments,Medium,5.1,5.13,0.03,0.89,Needs Review
+SP-2003,Payments,High,7.0,6.4,0.6,0.78,At Risk
+SP-2004,Customer Profile,High,5.4,5.76,0.36,0.83,Needs Review
+SP-2005,Payments,Critical,7.0,5.39,1.61,0.65,At Risk
+SP-2006,Promotions,Low,2.9,2.53,0.37,0.77,Ready
+SP-2007,Payments,Low,4.8,4.72,0.08,0.81,Needs Review
+SP-2008,Inventory,High,6.6,5.77,0.83,0.8,Needs Review
+SP-2009,Inventory,Low,2.0,2.17,0.17,0.87,Ready
+SP-2010,Customer Profile,Low,2.1,2.32,0.22,0.84,Ready
+SP-2011,Order Management,Medium,4.5,3.2,1.3,0.77,Needs Review
+SP-2012,Inventory,High,5.1,4.22,0.88,0.7,Needs Review
+SP-2013,Order Management,Medium,3.0,2.79,0.21,0.81,Ready
+SP-2014,Checkout,Low,4.1,4.11,0.01,0.74,Ready
+SP-2015,Promotions,Low,2.9,2.57,0.33,0.75,Ready
+SP-2016,Order Management,High,9.1,7.04,2.06,0.82,At Risk
+SP-2017,Order Management,Critical,7.4,5.57,1.83,0.72,At Risk
+SP-2018,Checkout,Medium,4.5,3.91,0.59,0.74,Needs Review
+SP-2019,Payments,High,7.5,5.4,2.1,0.75,At Risk
+SP-2020,Payments,Critical,7.0,6.05,0.95,0.76,At Risk
+SP-2021,Inventory,Medium,3.3,2.65,0.65,0.78,Ready
+SP-2022,Customer Profile,High,8.0,5.49,2.51,0.76,At Risk
+SP-2023,Order Management,Low,4.1,3.6,0.5,0.72,Ready
+SP-2024,Payments,Medium,5.0,4.37,0.63,0.68,Needs Review
+SP-2025,Inventory,High,8.3,5.65,2.65,0.8,At Risk
+SP-2026,Payments,Medium,2.7,3.06,0.36,0.75,Ready
+SP-2027,Checkout,Low,2.4,2.6,0.2,0.8,Ready
+SP-2028,Customer Profile,Low,3.3,2.59,0.71,0.74,Ready
+SP-2029,Promotions,Low,1.1,2.0,0.9,0.9,Ready
+SP-2030,Promotions,High,6.8,5.45,1.35,0.77,Needs Review
+SP-2031,Checkout,High,6.0,4.39,1.61,0.65,Needs Review
+SP-2032,Checkout,High,5.3,4.51,0.79,0.69,Needs Review
+SP-2033,Inventory,High,5.8,5.14,0.66,0.81,Needs Review
+SP-2034,Promotions,High,6.3,5.54,0.76,0.75,Needs Review
+SP-2035,Payments,Low,2.2,2.38,0.18,0.81,Ready
+SP-2036,Promotions,Low,1.7,2.4,0.7,0.83,Ready
+SP-2037,Customer Profile,High,7.9,6.3,1.6,0.82,At Risk
+SP-2038,Payments,Medium,5.2,3.65,1.55,0.63,Needs Review
+SP-2039,Customer Profile,Critical,8.0,5.11,2.89,0.66,At Risk
+SP-2040,Order Management,Low,2.7,3.45,0.75,0.77,Ready
+SP-2041,Order Management,Low,1.1,2.17,1.07,0.88,Ready
+SP-2042,Checkout,High,6.8,6.03,0.77,0.84,Needs Review
+SP-2043,Checkout,High,7.4,5.75,1.65,0.8,At Risk
+SP-2044,Promotions,Medium,2.8,2.98,0.18,0.74,Ready
+SP-2045,Promotions,Low,3.6,3.56,0.04,0.74,Ready
+SP-2046,Order Management,High,6.2,5.34,0.86,0.79,Needs Review
+SP-2047,Payments,Low,3.4,3.47,0.07,0.78,Ready
+SP-2048,Payments,Medium,3.5,3.04,0.46,0.76,Ready
+SP-2049,Order Management,High,5.9,4.44,1.46,0.63,Needs Review
+SP-2050,Payments,Medium,5.0,4.47,0.53,0.75,Needs Review
+SP-2051,Customer Profile,Medium,4.5,4.47,0.03,0.78,Needs Review
+SP-2052,Promotions,Critical,8.6,5.9,2.7,0.73,At Risk
+SP-2053,Order Management,Low,4.0,3.27,0.73,0.77,Ready
+SP-2054,Checkout,Medium,3.7,4.17,0.47,0.75,Ready
+SP-2055,Order Management,Medium,4.9,4.48,0.42,0.77,Needs Review
+SP-2056,Promotions,Medium,3.8,4.16,0.36,0.76,Ready
+SP-2057,Checkout,Medium,5.7,5.24,0.46,0.82,Needs Review
+SP-2058,Checkout,High,8.5,6.55,1.95,0.75,At Risk
+SP-2059,Payments,Medium,5.8,5.28,0.52,0.81,Needs Review
+SP-2060,Checkout,High,6.1,5.53,0.57,0.76,Needs Review
+SP-2061,Payments,Medium,2.0,2.53,0.53,0.75,Ready
+SP-2062,Inventory,Medium,4.3,3.48,0.82,0.67,Ready
+SP-2063,Inventory,Critical,9.3,5.8,3.5,0.71,At Risk
+SP-2064,Inventory,Critical,8.5,7.34,1.16,0.67,At Risk
+SP-2065,Inventory,High,7.9,5.91,1.99,0.84,At Risk
+SP-2066,Order Management,Critical,7.1,5.62,1.48,0.75,At Risk
+SP-2067,Customer Profile,Critical,8.7,6.75,1.95,0.62,At Risk
+SP-2068,Checkout,High,4.8,4.0,0.8,0.69,Needs Review
+SP-2069,Customer Profile,Medium,4.6,3.88,0.72,0.76,Needs Review
+SP-2070,Inventory,Low,3.7,3.52,0.18,0.76,Ready

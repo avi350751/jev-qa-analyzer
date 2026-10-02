@@ -1,0 +1,71 @@
+ticket_id,sprint,module,severity,automation_coverage_pct,defects_found,escaped_defects,reopen_count,blocked_days,primary_risk_cause,primary_probability,secondary_risk_cause,secondary_probability,jev_confidence
+SP-2001,Sprint-25,Checkout,High,66,10,0,0,0,high_defect_count,0.49,high_severity,0.43,0.42
+SP-2002,Sprint-21,Payments,Medium,53,2,1,0,0,escaped_defects,0.91,low_automation_coverage,0.09,0.89
+SP-2003,Sprint-21,Payments,High,37,7,0,0,0,high_defect_count,0.48,high_severity,0.37,0.41
+SP-2004,Sprint-23,Customer Profile,High,87,2,1,0,0,escaped_defects,0.64,high_severity,0.35,0.59
+SP-2005,Sprint-24,Payments,Critical,63,4,0,0,0,high_severity,0.9,low_automation_coverage,0.05,0.88
+SP-2006,Sprint-22,Promotions,Low,85,6,0,0,0,no_significant_risk,0.48,high_defect_count,0.38,0.41
+SP-2007,Sprint-25,Payments,Low,36,5,1,0,0,escaped_defects,0.57,low_automation_coverage,0.33,0.52
+SP-2008,Sprint-21,Inventory,High,59,5,0,2,0,high_severity,0.59,high_defect_count,0.2,0.55
+SP-2009,Sprint-23,Inventory,Low,85,3,0,0,0,no_significant_risk,0.81,low_automation_coverage,0.14,0.78
+SP-2010,Sprint-26,Customer Profile,Low,78,2,0,0,0,no_significant_risk,0.65,low_automation_coverage,0.34,0.61
+SP-2011,Sprint-24,Order Management,Medium,94,5,0,1,0,no_significant_risk,0.38,high_defect_count,0.36,0.29
+SP-2012,Sprint-23,Inventory,High,72,2,0,1,0,high_severity,0.86,low_automation_coverage,0.08,0.83
+SP-2013,Sprint-25,Order Management,Medium,72,2,0,0,0,no_significant_risk,0.58,low_automation_coverage,0.4,0.53
+SP-2014,Sprint-22,Checkout,Low,39,7,0,0,0,high_defect_count,0.49,low_automation_coverage,0.46,0.42
+SP-2015,Sprint-24,Promotions,Low,91,5,0,0,0,no_significant_risk,0.49,high_defect_count,0.23,0.42
+SP-2016,Sprint-23,Order Management,High,52,9,1,1,1,escaped_defects,0.4,high_severity,0.31,0.32
+SP-2017,Sprint-24,Order Management,Critical,42,3,0,0,0,high_severity,0.83,low_automation_coverage,0.17,0.8
+SP-2018,Sprint-22,Checkout,Medium,88,7,0,0,1,high_defect_count,0.61,no_significant_risk,0.14,0.55
+SP-2019,Sprint-24,Payments,High,74,8,0,2,1,high_severity,0.64,high_defect_count,0.24,0.59
+SP-2020,Sprint-24,Payments,Critical,39,3,0,0,0,high_severity,0.89,low_automation_coverage,0.11,0.87
+SP-2021,Sprint-25,Inventory,Medium,91,1,0,0,1,no_significant_risk,0.56,blocked_dependency,0.32,0.51
+SP-2022,Sprint-23,Customer Profile,High,42,9,0,1,0,high_severity,0.47,low_automation_coverage,0.29,0.41
+SP-2023,Sprint-22,Order Management,Low,63,8,0,1,0,high_defect_count,0.46,low_automation_coverage,0.25,0.4
+SP-2024,Sprint-25,Payments,Medium,89,1,1,0,2,escaped_defects,0.98,low_automation_coverage,0.01,0.98
+SP-2025,Sprint-21,Inventory,High,42,7,0,0,3,high_severity,0.56,low_automation_coverage,0.26,0.51
+SP-2026,Sprint-22,Payments,Medium,68,0,0,0,1,low_automation_coverage,0.55,no_significant_risk,0.33,0.49
+SP-2027,Sprint-22,Checkout,Low,74,4,0,0,0,no_significant_risk,0.55,low_automation_coverage,0.31,0.49
+SP-2028,Sprint-23,Customer Profile,Low,73,7,0,0,0,no_significant_risk,0.44,high_defect_count,0.29,0.37
+SP-2029,Sprint-21,Promotions,Low,91,2,0,0,0,no_significant_risk,0.93,low_automation_coverage,0.05,0.91
+SP-2030,Sprint-21,Promotions,High,59,6,0,1,0,high_severity,0.6,high_defect_count,0.19,0.55
+SP-2031,Sprint-23,Checkout,High,89,6,0,0,0,high_severity,0.8,high_defect_count,0.11,0.76
+SP-2032,Sprint-24,Checkout,High,78,5,0,0,0,high_severity,0.77,low_automation_coverage,0.12,0.74
+SP-2033,Sprint-24,Inventory,High,47,3,0,1,0,high_severity,0.66,low_automation_coverage,0.31,0.61
+SP-2034,Sprint-21,Promotions,High,69,8,0,0,0,high_defect_count,0.48,high_severity,0.44,0.41
+SP-2035,Sprint-25,Payments,Low,88,5,0,0,0,no_significant_risk,0.68,high_defect_count,0.21,0.64
+SP-2036,Sprint-26,Promotions,Low,88,1,0,1,0,reopened_defects,0.5,no_significant_risk,0.42,0.44
+SP-2037,Sprint-22,Customer Profile,High,36,5,1,0,0,escaped_defects,0.49,high_severity,0.34,0.41
+SP-2038,Sprint-24,Payments,Medium,92,8,0,1,0,high_defect_count,0.7,no_significant_risk,0.16,0.66
+SP-2039,Sprint-26,Customer Profile,Critical,92,4,0,0,2,high_severity,0.91,high_defect_count,0.07,0.88
+SP-2040,Sprint-23,Order Management,Low,36,0,0,0,1,low_automation_coverage,0.7,high_complexity,0.18,0.67
+SP-2041,Sprint-26,Order Management,Low,88,2,0,0,0,no_significant_risk,0.72,low_automation_coverage,0.15,0.68
+SP-2042,Sprint-25,Checkout,High,40,6,0,0,0,high_severity,0.49,high_defect_count,0.36,0.43
+SP-2043,Sprint-25,Checkout,High,47,8,0,0,0,high_severity,0.49,low_automation_coverage,0.3,0.42
+SP-2044,Sprint-23,Promotions,Medium,50,0,0,0,0,low_automation_coverage,0.61,no_significant_risk,0.38,0.56
+SP-2045,Sprint-22,Promotions,Low,37,5,0,1,0,low_automation_coverage,0.72,no_significant_risk,0.16,0.68
+SP-2046,Sprint-25,Order Management,High,35,2,0,0,0,high_severity,0.55,low_automation_coverage,0.45,0.49
+SP-2047,Sprint-23,Payments,Low,36,2,0,1,0,low_automation_coverage,0.78,no_significant_risk,0.16,0.75
+SP-2048,Sprint-25,Payments,Medium,74,0,0,0,2,low_automation_coverage,0.46,blocked_dependency,0.28,0.38
+SP-2049,Sprint-24,Order Management,High,93,8,0,0,0,high_severity,0.78,high_defect_count,0.18,0.74
+SP-2050,Sprint-24,Payments,Medium,38,7,0,0,0,low_automation_coverage,0.67,high_defect_count,0.29,0.63
+SP-2051,Sprint-25,Customer Profile,Medium,60,2,0,1,1,reopened_defects,0.42,low_automation_coverage,0.3,0.34
+SP-2052,Sprint-21,Promotions,Critical,62,10,0,0,0,high_severity,0.69,high_defect_count,0.24,0.65
+SP-2053,Sprint-26,Order Management,Low,53,8,0,0,0,low_automation_coverage,0.39,high_defect_count,0.35,0.32
+SP-2054,Sprint-25,Checkout,Medium,54,3,0,0,1,low_automation_coverage,0.56,high_complexity,0.27,0.5
+SP-2055,Sprint-24,Order Management,Medium,50,7,0,0,0,low_automation_coverage,0.52,high_defect_count,0.36,0.46
+SP-2056,Sprint-23,Promotions,Medium,59,6,0,0,0,low_automation_coverage,0.5,high_defect_count,0.25,0.43
+SP-2057,Sprint-25,Checkout,Medium,80,8,1,0,0,escaped_defects,0.68,high_defect_count,0.27,0.64
+SP-2058,Sprint-26,Checkout,High,47,9,1,0,1,escaped_defects,0.48,high_severity,0.35,0.4
+SP-2059,Sprint-25,Payments,Medium,36,8,0,1,0,high_defect_count,0.55,low_automation_coverage,0.42,0.49
+SP-2060,Sprint-26,Checkout,High,48,5,0,0,0,high_severity,0.6,low_automation_coverage,0.32,0.56
+SP-2061,Sprint-22,Payments,Medium,79,0,0,0,0,low_automation_coverage,0.45,no_significant_risk,0.38,0.37
+SP-2062,Sprint-21,Inventory,Medium,74,7,0,0,0,high_defect_count,0.58,no_significant_risk,0.2,0.53
+SP-2063,Sprint-24,Inventory,Critical,64,10,0,0,1,high_severity,0.81,high_defect_count,0.15,0.79
+SP-2064,Sprint-24,Inventory,Critical,71,2,2,0,0,escaped_defects,0.72,high_severity,0.28,0.68
+SP-2065,Sprint-22,Inventory,High,48,4,0,2,1,high_severity,0.7,low_automation_coverage,0.16,0.65
+SP-2066,Sprint-21,Order Management,Critical,57,3,0,0,0,high_severity,0.9,low_automation_coverage,0.08,0.88
+SP-2067,Sprint-26,Customer Profile,Critical,81,8,1,0,0,escaped_defects,0.46,high_severity,0.44,0.39
+SP-2068,Sprint-23,Checkout,High,71,2,0,0,0,high_severity,0.87,low_automation_coverage,0.11,0.84
+SP-2069,Sprint-24,Customer Profile,Medium,66,5,0,0,1,low_automation_coverage,0.39,high_defect_count,0.26,0.3
+SP-2070,Sprint-22,Inventory,Low,58,5,0,1,0,high_defect_count,0.37,low_automation_coverage,0.28,0.28

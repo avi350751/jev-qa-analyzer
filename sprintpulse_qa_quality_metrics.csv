@@ -1,0 +1,71 @@
+ticket_id,sprint,module,ticket_type,severity,priority,test_cases,automated_test_cases,automation_coverage_pct,defects_found,escaped_defects,avg_resolution_hours,reopen_count,blocked_days,story_points,qa_owner,risk_score_10,release_readiness
+SP-2001,Sprint-25,Checkout,Enhancement,High,P2,11,7,66,10,0,29.6,0,0,13,QA-C,7.3,At Risk
+SP-2002,Sprint-21,Payments,Story,Medium,P3,11,6,53,2,1,10.2,0,0,5,QA-E,5.1,Needs Review
+SP-2003,Sprint-21,Payments,Story,High,P2,4,1,37,7,0,22.1,0,0,13,QA-B,7.0,At Risk
+SP-2004,Sprint-23,Customer Profile,Bug,High,P2,8,7,87,2,1,9.9,0,0,3,QA-C,5.4,Needs Review
+SP-2005,Sprint-24,Payments,Enhancement,Critical,P1,7,4,63,4,0,9.3,0,0,3,QA-F,7.0,At Risk
+SP-2006,Sprint-22,Promotions,Story,Low,P3,16,14,85,6,0,17.5,0,0,2,QA-B,2.9,Ready
+SP-2007,Sprint-25,Payments,Story,Low,P3,14,5,36,5,1,26.5,0,0,13,QA-A,4.8,Needs Review
+SP-2008,Sprint-21,Inventory,Story,High,P2,8,5,59,5,0,17.5,2,0,13,QA-A,6.6,Needs Review
+SP-2009,Sprint-23,Inventory,Bug,Low,P3,25,21,85,3,0,11.1,0,0,3,QA-C,2.0,Ready
+SP-2010,Sprint-26,Customer Profile,Story,Low,P3,23,18,78,2,0,12.3,0,0,3,QA-B,2.1,Ready
+SP-2011,Sprint-24,Order Management,Enhancement,Medium,P3,22,21,94,5,0,14.8,1,0,5,QA-C,4.5,Needs Review
+SP-2012,Sprint-23,Inventory,Story,High,P2,18,13,72,2,0,18.1,1,0,1,QA-E,5.1,Needs Review
+SP-2013,Sprint-25,Order Management,Story,Medium,P2,36,26,72,2,0,10.8,0,0,2,QA-B,3.0,Ready
+SP-2014,Sprint-22,Checkout,Story,Low,P3,5,2,39,7,0,13.9,0,0,2,QA-F,4.1,Ready
+SP-2015,Sprint-24,Promotions,Story,Low,P3,24,22,91,5,0,18.4,0,0,13,QA-F,2.9,Ready
+SP-2016,Sprint-23,Order Management,Bug,High,P2,12,6,52,9,1,32.9,1,1,8,QA-A,9.1,At Risk
+SP-2017,Sprint-24,Order Management,Story,Critical,P1,12,5,42,3,0,10.6,0,0,2,QA-C,7.4,At Risk
+SP-2018,Sprint-22,Checkout,Enhancement,Medium,P2,16,14,88,7,0,15.9,0,1,13,QA-C,4.5,Needs Review
+SP-2019,Sprint-24,Payments,Story,High,P2,18,13,74,8,0,24.1,2,1,2,QA-A,7.5,At Risk
+SP-2020,Sprint-24,Payments,Bug,Critical,P1,14,5,39,3,0,10.3,0,0,3,QA-C,7.0,At Risk
+SP-2021,Sprint-25,Inventory,Story,Medium,P3,6,5,91,1,0,19.4,0,1,2,QA-B,3.3,Ready
+SP-2022,Sprint-23,Customer Profile,Story,High,P2,25,10,42,9,0,18.5,1,0,3,QA-E,8.0,At Risk
+SP-2023,Sprint-22,Order Management,Story,Low,P3,17,11,63,8,0,21.7,1,0,8,QA-B,4.1,Ready
+SP-2024,Sprint-25,Payments,Story,Medium,P2,26,23,89,1,1,12.3,0,2,1,QA-F,5.0,Needs Review
+SP-2025,Sprint-21,Inventory,Story,High,P2,25,10,42,7,0,18.4,0,3,5,QA-C,8.3,At Risk
+SP-2026,Sprint-22,Payments,Bug,Medium,P3,14,10,68,0,0,7.4,0,1,5,QA-B,2.7,Ready
+SP-2027,Sprint-22,Checkout,Bug,Low,P3,29,21,74,4,0,21.1,0,0,8,QA-C,2.4,Ready
+SP-2028,Sprint-23,Customer Profile,Story,Low,P3,25,18,73,7,0,18.1,0,0,1,QA-A,3.3,Ready
+SP-2029,Sprint-21,Promotions,Bug,Low,P3,33,30,91,2,0,10.1,0,0,2,QA-C,1.1,Ready
+SP-2030,Sprint-21,Promotions,Enhancement,High,P2,14,8,59,6,0,12.5,1,0,13,QA-C,6.8,Needs Review
+SP-2031,Sprint-23,Checkout,Enhancement,High,P2,22,20,89,6,0,16.1,0,0,13,QA-A,6.0,Needs Review
+SP-2032,Sprint-24,Checkout,Enhancement,High,P2,11,9,78,5,0,15.4,0,0,2,QA-B,5.3,Needs Review
+SP-2033,Sprint-24,Inventory,Story,High,P2,9,4,47,3,0,10.2,1,0,1,QA-D,5.8,Needs Review
+SP-2034,Sprint-21,Promotions,Story,High,P2,6,4,69,8,0,21.9,0,0,13,QA-A,6.3,Needs Review
+SP-2035,Sprint-25,Payments,Story,Low,P3,32,28,88,5,0,17.0,0,0,3,QA-A,2.2,Ready
+SP-2036,Sprint-26,Promotions,Enhancement,Low,P3,6,5,88,1,0,7.3,1,0,2,QA-B,1.7,Ready
+SP-2037,Sprint-22,Customer Profile,Story,High,P2,10,4,36,5,1,25.2,0,0,2,QA-B,7.9,At Risk
+SP-2038,Sprint-24,Payments,Bug,Medium,P2,13,12,92,8,0,23.2,1,0,1,QA-D,5.2,Needs Review
+SP-2039,Sprint-26,Customer Profile,Story,Critical,P1,7,6,92,4,0,15.9,0,2,2,QA-F,8.0,At Risk
+SP-2040,Sprint-23,Order Management,Story,Low,P3,6,2,36,0,0,5.3,0,1,13,QA-C,2.7,Ready
+SP-2041,Sprint-26,Order Management,Story,Low,P3,28,25,88,2,0,11.9,0,0,8,QA-A,1.1,Ready
+SP-2042,Sprint-25,Checkout,Story,High,P2,4,2,40,6,0,22.4,0,0,8,QA-F,6.8,Needs Review
+SP-2043,Sprint-25,Checkout,Story,High,P2,15,7,47,8,0,18.8,0,0,5,QA-A,7.4,At Risk
+SP-2044,Sprint-23,Promotions,Bug,Medium,P2,12,6,50,0,0,9.7,0,0,2,QA-D,2.8,Ready
+SP-2045,Sprint-22,Promotions,Enhancement,Low,P3,19,7,37,5,0,20.8,1,0,1,QA-D,3.6,Ready
+SP-2046,Sprint-25,Order Management,Enhancement,High,P2,27,9,35,2,0,19.6,0,0,8,QA-C,6.2,Needs Review
+SP-2047,Sprint-23,Payments,Story,Low,P3,31,11,36,2,0,10.2,1,0,3,QA-E,3.4,Ready
+SP-2048,Sprint-25,Payments,Story,Medium,P3,15,11,74,0,0,17.1,0,2,5,QA-B,3.5,Ready
+SP-2049,Sprint-24,Order Management,Bug,High,P2,36,33,93,8,0,19.1,0,0,8,QA-F,5.9,Needs Review
+SP-2050,Sprint-24,Payments,Story,Medium,P2,15,6,38,7,0,15.8,0,0,1,QA-D,5.0,Needs Review
+SP-2051,Sprint-25,Customer Profile,Bug,Medium,P3,5,3,60,2,0,9.7,1,1,2,QA-D,4.5,Needs Review
+SP-2052,Sprint-21,Promotions,Story,Critical,P1,20,12,62,10,0,25.8,0,0,5,QA-E,8.6,At Risk
+SP-2053,Sprint-26,Order Management,Story,Low,P3,29,15,53,8,0,17.9,0,0,5,QA-A,4.0,Ready
+SP-2054,Sprint-25,Checkout,Story,Medium,P3,25,14,54,3,0,10.9,0,1,13,QA-D,3.7,Ready
+SP-2055,Sprint-24,Order Management,Story,Medium,P3,25,12,50,7,0,21.0,0,0,8,QA-F,4.9,Needs Review
+SP-2056,Sprint-23,Promotions,Story,Medium,P3,24,14,59,6,0,12.2,0,0,13,QA-D,3.8,Ready
+SP-2057,Sprint-25,Checkout,Story,Medium,P3,17,14,80,8,1,32.5,0,0,13,QA-D,5.7,Needs Review
+SP-2058,Sprint-26,Checkout,Bug,High,P2,33,16,47,9,1,29.6,0,1,5,QA-C,8.5,At Risk
+SP-2059,Sprint-25,Payments,Story,Medium,P3,10,4,36,8,0,29.9,1,0,2,QA-A,5.8,Needs Review
+SP-2060,Sprint-26,Checkout,Story,High,P2,25,12,48,5,0,21.8,0,0,13,QA-B,6.1,Needs Review
+SP-2061,Sprint-22,Payments,Story,Medium,P2,18,14,79,0,0,15.5,0,0,8,QA-B,2.0,Ready
+SP-2062,Sprint-21,Inventory,Story,Medium,P2,11,8,74,7,0,21.1,0,0,1,QA-C,4.3,Ready
+SP-2063,Sprint-24,Inventory,Bug,Critical,P1,19,12,64,10,0,31.7,0,1,2,QA-E,9.3,At Risk
+SP-2064,Sprint-24,Inventory,Story,Critical,P1,27,19,71,2,2,15.4,0,0,3,QA-A,8.5,At Risk
+SP-2065,Sprint-22,Inventory,Bug,High,P2,10,5,48,4,0,9.7,2,1,3,QA-E,7.9,At Risk
+SP-2066,Sprint-21,Order Management,Enhancement,Critical,P1,7,4,57,3,0,22.4,0,0,8,QA-E,7.1,At Risk
+SP-2067,Sprint-26,Customer Profile,Story,Critical,P1,29,23,81,8,1,21.0,0,0,8,QA-E,8.7,At Risk
+SP-2068,Sprint-23,Checkout,Story,High,P2,26,18,71,2,0,15.7,0,0,3,QA-E,4.8,Needs Review
+SP-2069,Sprint-24,Customer Profile,Story,Medium,P3,36,24,66,5,0,11.5,0,1,8,QA-E,4.6,Needs Review
+SP-2070,Sprint-22,Inventory,Story,Low,P3,10,6,58,5,0,21.3,1,0,3,QA-F,3.7,Ready

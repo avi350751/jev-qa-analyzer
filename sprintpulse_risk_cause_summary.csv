@@ -1,0 +1,7 @@
+risk_cause,ticket_count,percentage
+high_severity,23,32.9
+low_automation_coverage,13,18.6
+no_significant_risk,12,17.1
+high_defect_count,10,14.3
+escaped_defects,10,14.3
+reopened_defects,2,2.9
